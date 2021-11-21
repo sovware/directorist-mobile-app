@@ -5,4 +5,5 @@ Directorist Mobile App
 
 [Download IPA for iOS](../../raw/main/build/ios/app.ipa)
 
-[Requirements](../../wiki)
+***
+[Overview](https://directorist.com/mobile-app/) | [Features](https://directorist.com/app-features/) | [Pricing](https://directorist.com/app-pricing/) | [Roadmap](https://directorist.com/app-roadmap/) | [Requirements](../../wiki)
