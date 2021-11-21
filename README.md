@@ -5,4 +5,4 @@ Directorist Mobile App
 
 [Download IPA for iOS](../../raw/main/build/ios/app.ipa)
 
-[Requirements](/wiki)
+[Requirements](../../wiki)
